@@ -2585,9 +2585,11 @@
       "jade_cliffs": "2024-12-17 00:56:27 -0800",
       "mystic_grove": "2024-12-16 21:46:13 -0800",
       "overgrown_greens": "2024-12-16 21:44:07 -0800",
+      "mediterranean_forest": "2024-12-18 16:32:42 -0800",
       "spider_nest": "2024-12-17 21:45:13 -0800",
       "redwood_forest": "2024-12-17 21:51:15 -0800",
       "pasture": "2024-12-16 20:46:21 -0800",
+      "lavender_field": "2024-12-18 16:31:43 -0800",
       "prairie": "2024-12-16 23:34:40 -0800",
       "snowy_coniferous_forest": "2024-12-18 01:02:09 -0800",
       "snowy_fir_clearing": "2024-12-18 00:56:26 -0800"
@@ -13437,6 +13439,78 @@
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2024-12-18 02:23:00 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2024-12-18 16:31:57 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2024-12-18 16:31:57 -0800"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-18 17:05:07 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-18 16:31:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-18 16:35:01 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2024-12-18 16:14:27 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-12-18 16:31:57 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2024-12-18 16:31:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-18 16:14:26 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2024-12-18 16:31:57 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2024-12-18 16:31:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-18 16:35:01 -0800"
     },
     "done": true
   },
