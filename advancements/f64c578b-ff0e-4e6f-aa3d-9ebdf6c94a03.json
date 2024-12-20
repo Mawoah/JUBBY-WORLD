@@ -3478,6 +3478,7 @@
       "oak_tree_1": "2024-12-16 20:45:33 -0800",
       "oak_house_small_1": "2024-12-16 20:53:22 -0800",
       "dark_oak_ship_1": "2024-12-17 22:50:43 -0800",
+      "birch_house_small_2": "2024-12-19 23:57:59 -0800",
       "oak_house_medium_1": "2024-12-17 21:50:43 -0800",
       "oak_house_medium_2": "2024-12-18 00:05:57 -0800",
       "spruce_house_small_1": "2024-12-18 00:34:22 -0800",
@@ -3536,6 +3537,7 @@
       "forested_field": "2024-12-18 02:00:18 -0800",
       "redwood_forest": "2024-12-17 21:56:25 -0800",
       "pasture": "2024-12-16 20:46:39 -0800",
+      "fir_clearing": "2024-12-19 23:49:14 -0800",
       "pumpkin_patch": "2024-12-18 00:08:50 -0800",
       "prairie": "2024-12-17 00:34:42 -0800",
       "snowy_coniferous_forest": "2024-12-18 01:01:57 -0800",
@@ -9448,7 +9450,8 @@
   },
   "repurposed_structures:ruins": {
     "criteria": {
-      "in_ruins_land_icy": "2024-12-18 00:41:12 -0800"
+      "in_ruins_land_icy": "2024-12-18 00:41:12 -0800",
+      "in_ruins_land_cold": "2024-12-19 23:59:50 -0800"
     },
     "done": false
   },
@@ -9919,6 +9922,1087 @@
       "in_witch_hut_taiga": "2024-12-18 02:26:40 -0800"
     },
     "done": false
+  },
+  "betternether:recipes/redstone/rubeus_button": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:flooded_deltas": "2024-12-20 01:11:29 -0800",
+      "betternether:nether_jungle": "2024-12-20 01:11:45 -0800"
+    },
+    "done": false
+  },
+  "everycomp:recipes/decorations/af/betternether/rubeus_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-20 01:11:44 -0800"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/betternether/rubeus_beehive": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2024-12-20 00:15:47 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-12-20 00:13:34 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/rubeus_plate": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_cupboard": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-20 01:05:12 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 00:15:47 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-20 01:10:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/betternether/rubeus_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-20 01:11:07 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-20 01:09:55 -0800"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/betternether/item_shelf_rubeus": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/rubeus_seat": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/rubeus_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/rubeus_sanded_wood": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2024-12-20 01:10:19 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2024-12-20 01:12:17 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/rubeus_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/rubeus_chair": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 00:15:47 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2024-12-20 01:05:12 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/rubeus_post": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/rubeus_parquet": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/betternether/sign_post_rubeus": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_bark": {
+    "criteria": {
+      "has_rubeus_log": "2024-12-20 01:12:08 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_desk": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-20 01:11:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-20 00:13:34 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/rubeus_banister": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_pillar_trim": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_boat": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-20 00:13:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2024-12-20 00:13:34 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_chest": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2024-12-20 01:11:07 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/large_rubeus_boat": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-20 00:13:34 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_couch": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-19 23:58:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_jungle": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-20 01:11:07 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/betternether/rubeus_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/rubeus_shutter": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/rubeus_trim_1": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_barrel": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-20 00:01:47 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-19 23:58:10 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 00:13:54 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_slab": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_palisade": {
+    "criteria": {
+      "has_log": "2024-12-20 00:13:54 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-20 00:13:35 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/rubeus_flower_box": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/betternether/rubeus_backpack_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/rubeus_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/betternether/rubeus_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_hoe_repairing": {
+    "criteria": {
+      "has_wooden_hoe": "2024-12-19 23:54:05 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-20 01:11:07 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/rubeus_support": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/rubeus_vertical_trim": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_crafting_table": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/rubeus_door": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-19 23:52:23 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/rubeus_wall": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/betternether/rubeus_beam": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-20 00:01:47 -0800"
+    },
+    "done": false
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-19 23:52:23 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2024-12-19 23:58:14 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_seat": {
+    "criteria": {
+      "has_plank": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_support": {
+    "criteria": {
+      "has_plank": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_corner_trim": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 01:05:12 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_rubeus": "2024-12-20 01:12:08 -0800"
+    },
+    "done": false
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/rubeus_trim": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-20 01:11:07 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-19 23:58:10 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/betternether/rubeus_furnace_boat": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/vertical_rubeus_planks": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/betternether/rubeus_lattice": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_stairs": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/betternether/rubeus_bench": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/hollow_rubeus_log": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_bench": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/rubeus_trapdoor": {
+    "criteria": {
+      "has_rubeus_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/betternether/hollow_rubeus_log": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-19 23:58:10 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_log": {
+    "criteria": {
+      "has_rubeus_bark": "2024-12-20 01:12:16 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_side_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 00:13:54 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_counter": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2024-12-20 00:29:00 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/betternether/stripped_rubeus_post": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-20 00:24:30 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-12-19 23:48:24 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/betternether/rubeus_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-20 01:12:59 -0800"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
