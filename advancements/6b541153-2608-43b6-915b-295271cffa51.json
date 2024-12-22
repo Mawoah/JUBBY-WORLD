@@ -1382,6 +1382,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-16 20:58:27 -0800",
+      "cooked_beef": "2024-12-21 23:10:08 -0800",
       "baked_potato": "2024-12-17 23:58:27 -0800",
       "apple": "2024-12-16 20:41:54 -0800",
       "cooked_cod": "2024-12-16 23:58:27 -0800",
@@ -4668,7 +4669,8 @@
     "criteria": {
       "sugar_cane": "2024-12-17 21:57:30 -0800",
       "nether_wart": "2024-12-20 23:57:06 -0800",
-      "wheat": "2024-12-16 22:12:38 -0800"
+      "wheat": "2024-12-16 22:12:38 -0800",
+      "carrot": "2024-12-21 22:27:45 -0800"
     },
     "done": false
   },
@@ -10361,225 +10363,57 @@
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
-    "criteria": {
-      "has_item": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_gloves": "2024-12-20 23:36:08 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_nightstand": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_desk": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/magma_cake": {
-    "criteria": {
-      "has_magma_cream": "2024-12-20 23:35:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2024-12-20 23:39:43 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/umbran_flower_box": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/stripped_umbran_post": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/weeping": {
-    "criteria": {
-      "has_item": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/rock_soup": {
-    "criteria": {
-      "has_magma_cream": "2024-12-20 23:35:55 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/umbran_ladder": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/warped_shroomlamp": {
-    "criteria": {
-      "has_item": "2024-12-21 00:02:26 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_bench": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_from_bricks_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutting": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-21 00:02:52 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_counter": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/umbran_support": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/umbran_palisade": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/crimson_shroomlamp": {
-    "criteria": {
-      "has_item": "2024-12-21 00:02:26 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_soul_sand": "2024-12-20 23:35:13 -0800"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+  "betternether:recipes/decorations/brick_pot": {
     "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
+      "has_soul_sand": "2024-12-20 23:35:13 -0800"
     },
     "done": true
   },
-  "betternether:recipes/decorations/cincinnasite_forge": {
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
     "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+      "has_soul_sand": "2024-12-20 23:35:13 -0800"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_gloves_repairing": {
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
-      "has_golden_gloves": "2024-12-20 23:36:08 -0800"
+      "has_soul_sand": "2024-12-20 23:35:13 -0800"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/af/biomesoplenty/umbran_chair": {
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
     "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
+      "has_soul_sand": "2024-12-20 23:35:13 -0800"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_thin_pot": {
+  "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
-      "has_golden_thin_pot": "2024-12-20 23:36:02 -0800"
+      "has_soul_sand": "2024-12-20 23:35:13 -0800"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
+      "has_raw_gold": "2024-12-20 23:35:52 -0800"
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/magma_cake_alt": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "has_magma_cream": "2024-12-20 23:35:55 -0800"
+      "has_raw_gold": "2024-12-20 23:35:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-20 23:35:52 -0800"
     },
     "done": true
   },
@@ -10589,27 +10423,297 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "has_smithing_trim_template": "2024-12-20 23:37:57 -0800"
+      "has_quartz": "2024-12-20 23:35:54 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+      "has_quartz": "2024-12-20 23:35:54 -0800"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_trim_1": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
+      "has_quartz": "2024-12-20 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2024-12-20 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-20 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2024-12-20 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-20 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2024-12-20 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-20 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-20 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2024-12-20 23:35:55 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2024-12-20 23:35:55 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2024-12-20 23:35:55 -0800"
     },
     "done": true
   },
   "mynethersdelight:recipes/misc/crafting/burnt_roll": {
     "criteria": {
       "has_magma_cream": "2024-12-20 23:35:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-20 23:35:55 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 23:35:55 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 23:35:55 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_hoe_repairing": {
+    "criteria": {
+      "has_golden_hoe": "2024-12-20 23:35:57 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-12-20 23:36:02 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-12-20 23:36:02 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-12-20 23:36:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-20 23:36:02 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-12-20 23:36:02 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-20 23:36:08 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-20 23:36:08 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2024-12-20 23:36:08 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-20 23:36:08 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-20 23:37:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-12-20 23:37:57 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-12-20 23:39:18 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2024-12-20 23:39:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-12-20 23:39:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-20 23:39:43 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-20 23:39:45 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-20 23:39:47 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-20 23:39:47 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-20 23:39:47 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-20 23:39:51 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-12-20 23:39:51 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 23:40:03 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-20 23:40:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 23:40:03 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2024-12-20 23:40:25 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_forge": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
     },
     "done": true
   },
@@ -10631,57 +10735,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2024-12-20 23:39:51 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_door": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "netherexp:nether/frightening_rush": {
-    "criteria": {
-      "condition": "2024-12-20 23:47:57 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/af/biomesoplenty/umbran_shelf": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-21 00:02:28 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_lattice": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
     },
     "done": true
   },
@@ -10691,135 +10747,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/leather_gloves_repairing": {
-    "criteria": {
-      "has_leather_gloves": "2024-12-20 23:40:25 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/crimson_palisade": {
-    "criteria": {
-      "has_log": "2024-12-21 00:02:28 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_brown_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_brown": "2024-12-20 23:49:55 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/brick_pot": {
-    "criteria": {
-      "has_soul_sand": "2024-12-20 23:35:13 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/db/biomesoplenty/umbran_seat": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "netherexp:recipes/ivy/weeping_ivy": {
-    "criteria": {
-      "has_item": "2024-12-21 00:02:30 -0800"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
-    "criteria": {
-      "has_item": "2024-12-20 23:43:51 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2024-12-21 00:02:28 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/umbran_post": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_vertical_trim": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2024-12-21 00:02:26 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_dining_bench": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_boots_repairing": {
-    "criteria": {
-      "has_leather_boots": "2024-12-20 23:39:18 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
-    "criteria": {
-      "has_soul_sand": "2024-12-20 23:35:13 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-20 23:35:52 -0800"
     },
     "done": true
   },
@@ -10835,87 +10765,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2024-12-20 23:36:02 -0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2024-12-20 23:50:13 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
-    "criteria": {
-      "has_item": "2024-12-21 00:02:30 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2024-12-21 00:00:46 -0800"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/vertical_umbran_planks": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-12-20 23:35:55 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_cupboard": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/biomesoplenty/umbran_trapped_chest": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
     },
     "done": true
   },
@@ -10925,57 +10777,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_fancy_bed": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
-    "criteria": {
-      "has_soul_sand": "2024-12-20 23:35:13 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_from_tile_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
-    },
-    "done": true
-  },
-  "netherexp:recipes/blackstone/twisting": {
-    "criteria": {
-      "has_item": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2024-12-20 23:36:02 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_small": {
-    "criteria": {
-      "has_blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
-    "criteria": {
-      "has_chainmail_gloves": "2024-12-20 23:39:47 -0800"
     },
     "done": true
   },
@@ -10985,111 +10789,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutting": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-20 23:40:03 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_trim": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_chestplate_repairing": {
-    "criteria": {
-      "has_leather_chestplate": "2024-12-20 23:39:21 -0800"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2024-12-21 00:02:26 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_side_table": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/bloodstone/bloodstone": {
-    "criteria": {
-      "has_item": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_gloves": "2024-12-20 23:36:08 -0800"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/burn_roll": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-20 23:35:55 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
-    "criteria": {
-      "has_soul_sand": "2024-12-20 23:35:13 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/vp/biomesoplenty/umbran_horticulturist_table": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2024-12-21 00:06:17 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_parquet": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
     },
     "done": true
   },
@@ -11105,54 +10807,6 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_gloves": "2024-12-20 23:39:47 -0800"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_umbran": {
-    "criteria": {
-      "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-20 23:43:51 -0800"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/amethyst_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-21 00:02:52 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/rock_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-20 23:35:55 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_from_tile_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 23:41:43 -0800"
@@ -11162,6 +10816,498 @@
   "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_anvil": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 23:42:43 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2024-12-20 23:43:51 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-20 23:43:51 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2024-12-20 23:43:51 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2024-12-20 23:43:51 -0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-20 23:43:51 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-20 23:43:51 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2024-12-20 23:45:02 -0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2024-12-20 23:47:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-20 23:49:29 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2024-12-20 23:49:55 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2024-12-20 23:49:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-20 23:50:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-20 23:50:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-20 23:50:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-20 23:50:26 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_nightstand": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_desk": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/umbran_flower_box": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_umbran_post": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/umbran_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_bench": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_counter": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/umbran_support": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/umbran_palisade": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/umbran_chair": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_trim_1": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/umbran_shelf": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_lattice": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/umbran_seat": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/umbran_post": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_vertical_trim": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_dining_bench": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_umbran_planks": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_cupboard": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/umbran_trapped_chest": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_fancy_bed": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_trim": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/umbran_side_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/umbran_horticulturist_table": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/umbran_parquet": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_umbran": {
+    "criteria": {
+      "has_planks": "2024-12-20 23:58:19 -0800"
     },
     "done": true
   },
@@ -11177,18 +11323,6 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_chair": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
@@ -11201,39 +11335,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2024-12-21 00:00:46 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2024-12-20 23:37:57 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/umbran_shutter": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-20 23:50:21 -0800"
     },
     "done": true
   },
@@ -11255,57 +11359,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks": {
-    "criteria": {
-      "has_blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-20 23:50:26 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_shelf": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
-    "criteria": {
-      "has_item": "2024-12-20 23:43:51 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
-    "criteria": {
-      "has_log": "2024-12-20 23:40:03 -0800"
     },
     "done": true
   },
@@ -11333,106 +11389,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_from_bricks_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2024-12-20 23:36:08 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-20 23:50:21 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-20 23:39:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_smelting": {
-    "criteria": {
-      "has_item.minecraft.quartz": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_corner_trim": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_lantern": {
-    "criteria": {
-      "has_glowstone": "2024-12-21 00:02:52 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_paver_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_boots_repairing": {
-    "criteria": {
-      "has_golden_boots": "2024-12-20 23:39:51 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_pot": {
-    "criteria": {
-      "has_soul_sand": "2024-12-20 23:35:13 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-20 23:36:02 -0800"
-    },
-    "done": true
-  },
-  "betternether:obsidian_blocks": {
-    "criteria": {
-      "made_blue_tile": "2024-12-21 00:14:36 -0800",
-      "made_blue_brick": "2024-12-21 00:14:58 -0800"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-20 23:35:52 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-21 00:06:17 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2024-12-21 00:02:26 -0800"
     },
     "done": true
   },
@@ -11442,45 +11401,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_from_tile_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/fd/biomesoplenty/umbran_cabinet": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_red_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_red": "2024-12-20 23:49:57 -0800"
-    },
-    "done": true
-  },
-  "betternether:nether_wood": {
-    "criteria": {
-      "got_crimson": "2024-12-21 00:02:28 -0800"
-    },
-    "done": false
-  },
-  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
     },
     "done": true
   },
@@ -11514,81 +11437,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
-    "criteria": {
-      "has_block.minecraft.nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_small_from_bricks_stonecutter": {
-    "criteria": {
-      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-12-20 23:35:52 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/netherrack_furnace": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/stacked_bones": {
-    "criteria": {
-      "has_item": "2024-12-20 23:43:51 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_blue_obsidian_bricks_slab": {
-    "criteria": {
-      "has_blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/bricks_fire_bowl": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/hc/biomesoplenty/umbran_table": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_leggings_repairing": {
-    "criteria": {
-      "has_leather_leggings": "2024-12-20 23:39:45 -0800"
     },
     "done": true
   },
@@ -11598,51 +11449,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/schist/schist": {
-    "criteria": {
-      "has_item": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite": {
-    "criteria": {
-      "has_item": "2024-12-20 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_gloves_repairing": {
-    "criteria": {
-      "has_chainmail_gloves": "2024-12-20 23:39:47 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles": {
-    "criteria": {
-      "has_blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_anvil": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-20 23:41:43 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/umbran_drawer": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2024-12-20 23:35:54 -0800"
     },
     "done": true
   },
@@ -11658,12 +11467,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-20 23:40:03 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/tw/biomesoplenty/umbran_table": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
@@ -11676,63 +11479,9 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/lapis_pile_to_lapis": {
-    "criteria": {
-      "has_lapis_pile": "2024-12-20 23:45:02 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_wide_pot": {
-    "criteria": {
-      "has_golden_wide_pot": "2024-12-20 23:36:02 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/af/biomesoplenty/umbran_table": {
     "criteria": {
       "has_planks": "2024-12-20 23:58:19 -0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-12-20 23:49:29 -0800"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2024-12-20 23:42:43 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_blue_obsidian_bricks_stairs": {
-    "criteria": {
-      "has_blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_hoe_repairing": {
-    "criteria": {
-      "has_golden_hoe": "2024-12-20 23:35:57 -0800"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/dragon_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-20 23:43:51 -0800"
     },
     "done": true
   },
@@ -11742,9 +11491,1116 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/bn_bone_block": {
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
-      "has_bone_block": "2024-12-20 23:43:51 -0800"
+      "has_logs": "2024-12-21 00:00:46 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 00:00:46 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2024-12-21 00:02:26 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2024-12-21 00:02:26 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-21 00:02:26 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-21 00:02:26 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-21 00:02:26 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-21 00:02:28 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_palisade": {
+    "criteria": {
+      "has_log": "2024-12-21 00:02:28 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 00:02:28 -0800"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_crimson": "2024-12-21 00:02:28 -0800",
+      "got_nether_mushroom": "2024-12-21 22:46:21 -0800"
+    },
+    "done": false
+  },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2024-12-21 00:02:30 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2024-12-21 00:02:30 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-21 00:02:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-21 00:02:52 -0800"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-21 00:02:52 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2024-12-21 00:02:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-21 00:06:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-21 00:06:17 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_from_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_from_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks": {
+    "criteria": {
+      "has_blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
+    },
+    "done": true
+  },
+  "betternether:obsidian_blocks": {
+    "criteria": {
+      "made_blue_tile": "2024-12-21 00:14:36 -0800",
+      "made_blue_brick": "2024-12-21 00:14:58 -0800"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_from_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles": {
+    "criteria": {
+      "has_blue_obsidian_tile": "2024-12-21 00:14:36 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_from_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small": {
+    "criteria": {
+      "has_blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_from_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_from_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_blue_obsidian_bricks_slab": {
+    "criteria": {
+      "has_blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_blue_obsidian_bricks_stairs": {
+    "criteria": {
+      "has_blue_obsidian_bricks": "2024-12-21 00:14:58 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2024-12-21 21:50:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/pillar": {
+    "criteria": {
+      "has_item": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/fence": {
+    "criteria": {
+      "has_item": "2024-12-21 21:52:29 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2024-12-21 21:53:48 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2024-12-21 21:53:48 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2024-12-21 21:53:48 -0800"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2024-12-21 21:53:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 21:53:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 21:53:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 21:53:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 21:53:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 21:53:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-21 21:53:59 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 21:57:52 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 21:57:52 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 21:57:52 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2024-12-21 21:57:52 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 21:57:52 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2024-12-21 21:57:52 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 21:57:52 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-21 21:57:52 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/furnace_compat": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_lever": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:15 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-21 21:59:35 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_dripstone_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_button": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_stairs_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/stonecutter_compat": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_slab_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:00:41 -0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-21 22:14:04 -0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-21 22:14:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-21 22:14:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-21 22:14:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-21 22:14:29 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:15:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-21 22:15:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-21 22:15:49 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:15:49 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:15:49 -0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-12-21 22:15:49 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-21 22:28:42 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2024-12-21 23:08:48 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/orange_dye_from_golden_aspess": {
+    "criteria": {
+      "has_golden_aspess": "2024-12-21 23:08:57 -0800"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-12-21 22:55:17 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "deep_aether:aerglow_forest": "2024-12-21 23:08:17 -0800",
+      "deep_aether:mystic_aerglow_forest": "2024-12-21 22:55:17 -0800"
+    },
+    "done": false
+  },
+  "aether_redux:recipes/food/blueberry_bagel": {
+    "criteria": {
+      "has_blue_berry": "2024-12-21 23:06:29 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_mushroom_planks": {
+    "criteria": {
+      "has_nether_mushroom_stem": "2024-12-21 22:46:21 -0800"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_glowstone_dust": {
+    "criteria": {
+      "has_glowstone_pile": "2024-12-21 22:46:20 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/blue_dye_from_iaspove": {
+    "criteria": {
+      "has_iaspove": "2024-12-21 23:08:55 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/food/enchanted_berry_enchanting": {
+    "criteria": {
+      "has_blue_berry": "2024-12-21 23:06:29 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/food/blueberry_pie": {
+    "criteria": {
+      "has_blue_berry": "2024-12-21 23:06:29 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2024-12-21 23:08:48 -0800"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-21 22:55:17 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2024-12-21 23:08:48 -0800"
     },
     "done": true
   },

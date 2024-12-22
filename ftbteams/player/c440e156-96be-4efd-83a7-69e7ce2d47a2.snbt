@@ -1,0 +1,17 @@
+{
+	id: "c440e156-96be-4efd-83a7-69e7ce2d47a2"
+	type: "player"
+	player_name: "LFoxYellow"
+	ranks: {
+		c440e156-96be-4efd-83a7-69e7ce2d47a2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LFoxYellow"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59CBFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
