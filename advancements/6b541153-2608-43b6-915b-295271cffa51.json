@@ -1771,6 +1771,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-20 23:01:26 -0800",
+      "minecraft:pillager": "2024-12-27 00:48:22 -0800",
       "minecraft:skeleton": "2024-12-16 20:46:16 -0800",
       "minecraft:vindicator": "2024-12-17 00:01:26 -0800",
       "minecraft:magma_cube": "2024-12-17 00:01:26 -0800",
@@ -4669,6 +4670,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2024-12-17 21:57:30 -0800",
+      "potato": "2024-12-27 00:53:26 -0800",
       "nether_wart": "2024-12-20 23:57:06 -0800",
       "wheat": "2024-12-16 22:12:38 -0800",
       "carrot": "2024-12-21 22:27:45 -0800"
@@ -12546,8 +12548,10 @@
   },
   "deep_aether:explore_aether": {
     "criteria": {
+      "aether:skyroot_grove": "2024-12-27 01:27:46 -0800",
       "deep_aether:aerglow_forest": "2024-12-21 23:08:17 -0800",
-      "deep_aether:mystic_aerglow_forest": "2024-12-21 22:55:17 -0800"
+      "deep_aether:mystic_aerglow_forest": "2024-12-21 22:55:17 -0800",
+      "deep_aether:aerlavender_fields": "2024-12-27 01:31:54 -0800"
     },
     "done": false
   },
@@ -12605,15 +12609,57 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-12-26 20:07:28 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-26 20:38:32 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-26 20:38:32 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-26 20:38:32 -0800"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-26 20:52:56 -0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-26 21:12:43 -0800"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/building_blocks/nautilus_shell_block": {
     "criteria": {
       "has_nautilus_shell": "2024-12-26 21:20:55 -0800"
     },
     "done": true
   },
-  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+  "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
     "criteria": {
-      "hoglin_loin": "2024-12-26 21:39:38 -0800"
+      "has_any_ingredient": "2024-12-26 21:20:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-26 21:20:55 -0800"
     },
     "done": true
   },
@@ -12623,9 +12669,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "has_golden_knife": "2024-12-26 20:38:32 -0800"
+      "has_bowl": "2024-12-26 21:24:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-26 21:32:20 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-26 21:39:38 -0800"
     },
     "done": true
   },
@@ -12641,57 +12699,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "golden_knife": "2024-12-26 20:38:32 -0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2024-12-26 21:24:59 -0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-26 21:20:55 -0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2024-12-26 20:38:32 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2024-12-26 20:07:28 -0800"
-    },
-    "done": true
-  },
   "mynethersdelight:recipes/food/hoglin_loin_cooking": {
     "criteria": {
       "hoglin_loin": "2024-12-26 21:39:38 -0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-26 21:12:43 -0800"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2024-12-26 20:52:56 -0800"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2024-12-26 21:20:55 -0800"
     },
     "done": true
   },
@@ -12707,9 +12717,657 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "dungeons_arise:find_illager_fort": {
     "criteria": {
-      "enchanted_item": "2024-12-26 21:32:20 -0800"
+      "location0": "2024-12-27 00:44:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 00:46:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-27 00:47:24 -0800"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-27 00:48:22 -0800"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-27 00:48:24 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-27 01:06:15 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-27 01:12:01 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 01:21:45 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 01:21:45 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2024-12-27 01:27:00 -0800"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-12-27 01:27:00 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2024-12-27 01:27:00 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2024-12-27 01:27:00 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2024-12-27 01:27:01 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/blue_gummy_swet": {
+    "criteria": {
+      "has_swet_ball": "2024-12-27 01:27:36 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2024-12-27 01:27:36 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2024-12-27 01:27:36 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/blue_swet_jelly": {
+    "criteria": {
+      "has_swet_ball": "2024-12-27 01:27:36 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2024-12-27 01:27:36 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/mossy_holystone_from_aether_moss": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_down_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_button": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/incubator": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_vine": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_moss": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_pressure_plate": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_stonecutter": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/big_holystone_bricks_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/altar": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/chiseled_holystone_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/holystone_knife": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/food/healing_stone_enchanting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/freezer": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_pillar_up_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_hoe": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tile_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/holystone_tiles_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2024-12-27 01:28:05 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_boots": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/skyjade_shield": {
+    "criteria": {
+      "has_skyjade_gemstone": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/skyjade_block": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/skyjade_from_skyjade_block": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_chestplate": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_gloves": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/tools/skyjade_pickaxe": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_ring": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_sword": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/skyjade_knife": {
+    "criteria": {
+      "has_gems/skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/tools/skyjade_shovel": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/tools/skyjade_axe": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/tools/skyjade_hoe": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_helmet": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/combat/skyjade_leggings": {
+    "criteria": {
+      "has_skyjade": "2024-12-27 01:28:36 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/enchanted_ring": {
+    "criteria": {
+      "has_ambrosium_shard": "2024-12-27 01:28:55 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/sentrite_lantern": {
+    "criteria": {
+      "has_ambrosium_shard": "2024-12-27 01:28:55 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2024-12-27 01:28:55 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/misc/veridium_lantern": {
+    "criteria": {
+      "has_ambrosium_shard": "2024-12-27 01:28:55 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/building_blocks/aether_coarse_dirt": {
+    "criteria": {
+      "has_aether_dirt": "2024-12-27 01:29:24 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/food/oatmeal": {
+    "criteria": {
+      "has_wynd_oats": "2024-12-27 01:29:41 -0800"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/food/wynd_bagel": {
+    "criteria": {
+      "has_wynd_oats": "2024-12-27 01:29:41 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_purple_dye": {
+    "criteria": {
+      "has_purple_flower": "2024-12-27 01:29:59 -0800"
     },
     "done": true
   },

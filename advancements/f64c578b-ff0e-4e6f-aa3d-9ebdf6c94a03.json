@@ -2136,6 +2136,7 @@
   },
   "deep_aether:explore_aether": {
     "criteria": {
+      "aether:skyroot_grove": "2024-12-27 01:09:33 -0800",
       "aether:skyroot_woodland": "2024-12-21 22:02:51 -0800",
       "deep_aether:aerglow_forest": "2024-12-21 22:02:33 -0800",
       "deep_aether:mystic_aerglow_forest": "2024-12-16 20:39:57 -0800",
@@ -8553,7 +8554,8 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_evoker": "2024-12-17 22:51:40 -0800"
+      "killed_evoker": "2024-12-17 22:51:40 -0800",
+      "killed_illusioner": "2024-12-27 00:47:59 -0800"
     },
     "done": false
   },
@@ -12922,6 +12924,42 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2024-12-26 19:54:30 -0800"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-26 20:08:36 -0800"
+    },
+    "done": false
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2024-12-26 20:08:37 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-26 20:08:37 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-26 20:20:57 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-26 20:20:57 -0800"
+    },
+    "done": true
+  },
   "delightful:recipes/knives/nether_quartz_knife": {
     "criteria": {
       "has_gems/quartz": "2024-12-26 20:36:43 -0800"
@@ -12958,51 +12996,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-26 21:15:10 -0800"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_item.minecraft.quartz": "2024-12-26 20:36:43 -0800"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2024-12-26 20:08:36 -0800"
-    },
-    "done": false
-  },
-  "mowziesmobs:kill_foliaath": {
-    "criteria": {
-      "foliaath": "2024-12-26 19:54:30 -0800"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/enchanted_membrane": {
-    "criteria": {
-      "has_item.minecraft.phantom_membrane": "2024-12-26 20:08:37 -0800"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2024-12-26 20:20:57 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-26 20:36:43 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/phantom_trophy": {
-    "criteria": {
-      "has_phantom_trophy": "2024-12-26 20:08:37 -0800"
     },
     "done": true
   },
@@ -13024,9 +13026,69 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "has_cooked_chicken": "2024-12-26 20:20:57 -0800"
+      "lightning_rod_with_villager_no_fire": "2024-12-26 21:15:10 -0800"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/hallowed_gem": {
+    "criteria": {
+      "has_unusual_dust_and_illusionary_dust": "2024-12-27 00:46:11 -0800"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-27 00:47:59 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/purple_dye_from_radiant_orchid": {
+    "criteria": {
+      "has_radiant_orchid": "2024-12-27 01:09:41 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/cooked_quail": {
+    "criteria": {
+      "has_raw_quail": "2024-12-27 01:17:57 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/cooked_quail_from_smoker": {
+    "criteria": {
+      "has_raw_quail": "2024-12-27 01:17:57 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2024-12-27 01:25:38 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2024-12-27 01:25:38 -0800"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-12-27 01:25:38 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2024-12-27 01:25:38 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-27 01:30:45 -0800"
     },
     "done": true
   },
