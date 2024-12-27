@@ -1776,6 +1776,7 @@
       "minecraft:magma_cube": "2024-12-17 00:01:26 -0800",
       "minecraft:spider": "2024-12-16 21:37:46 -0800",
       "minecraft:creeper": "2024-12-16 21:37:57 -0800",
+      "minecraft:phantom": "2024-12-26 20:52:56 -0800",
       "minecraft:wither_skeleton": "2024-12-20 23:16:28 -0800",
       "minecraft:cave_spider": "2024-12-16 22:09:37 -0800",
       "minecraft:zombie": "2024-12-17 00:01:26 -0800",
@@ -12525,15 +12526,15 @@
     },
     "done": true
   },
-  "aether:recipes/tools/cold_parachute": {
+  "betternether:recipes/misc/bn_glowstone_dust": {
     "criteria": {
-      "has_cold_aercloud": "2024-12-21 23:08:48 -0800"
+      "has_glowstone_pile": "2024-12-21 22:46:20 -0800"
     },
     "done": true
   },
-  "deep_aether:recipes/decorations/orange_dye_from_golden_aspess": {
+  "betternether:recipes/building_blocks/nether_mushroom_planks": {
     "criteria": {
-      "has_golden_aspess": "2024-12-21 23:08:57 -0800"
+      "has_nether_mushroom_stem": "2024-12-21 22:46:21 -0800"
     },
     "done": true
   },
@@ -12550,27 +12551,15 @@
     },
     "done": false
   },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-21 22:55:17 -0800"
+    },
+    "done": true
+  },
   "aether_redux:recipes/food/blueberry_bagel": {
     "criteria": {
       "has_blue_berry": "2024-12-21 23:06:29 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_mushroom_planks": {
-    "criteria": {
-      "has_nether_mushroom_stem": "2024-12-21 22:46:21 -0800"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_glowstone_dust": {
-    "criteria": {
-      "has_glowstone_pile": "2024-12-21 22:46:20 -0800"
-    },
-    "done": true
-  },
-  "deep_aether:recipes/decorations/blue_dye_from_iaspove": {
-    "criteria": {
-      "has_iaspove": "2024-12-21 23:08:55 -0800"
     },
     "done": true
   },
@@ -12586,21 +12575,141 @@
     },
     "done": true
   },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2024-12-21 23:08:48 -0800"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_aercloud_freezing": {
     "criteria": {
       "has_cold_aercloud": "2024-12-21 23:08:48 -0800"
     },
     "done": true
   },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2024-12-21 22:55:17 -0800"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/golden_aercloud_enchanting": {
     "criteria": {
       "has_cold_aercloud": "2024-12-21 23:08:48 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/blue_dye_from_iaspove": {
+    "criteria": {
+      "has_iaspove": "2024-12-21 23:08:55 -0800"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/decorations/orange_dye_from_golden_aspess": {
+    "criteria": {
+      "has_golden_aspess": "2024-12-21 23:08:57 -0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/nautilus_shell_block": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-26 21:20:55 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-26 21:39:38 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-26 21:24:59 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-26 20:38:32 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 21:39:38 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-26 21:39:38 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-26 20:38:32 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-26 21:24:59 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_nautilus_shell": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 21:20:55 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-26 20:38:32 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-12-26 20:07:28 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-26 21:39:38 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-26 21:12:43 -0800"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-26 20:52:56 -0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-26 21:20:55 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2024-12-26 21:39:38 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 21:39:38 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-26 21:32:20 -0800"
     },
     "done": true
   },

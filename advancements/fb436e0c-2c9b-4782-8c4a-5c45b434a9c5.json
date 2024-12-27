@@ -6697,33 +6697,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2024-12-21 00:10:15 -0800"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_beam": {
-    "criteria": {
-      "has_stripped_log": "2024-12-20 23:59:09 -0800"
-    },
-    "done": true
-  },
   "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
       "has_item": "2024-12-20 23:52:44 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-21 00:10:15 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-20 23:59:09 -0800"
     },
     "done": true
   },
@@ -6745,15 +6721,75 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/birch_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-20 23:52:44 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-20 23:59:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-20 23:59:09 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2024-12-20 23:59:09 -0800"
     },
     "done": true
   },
-  "twigs:recipes/tables/birch_table_slab": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_bamboo": "2024-12-20 23:52:44 -0800"
+      "has_snowball": "2024-12-21 00:10:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-21 00:10:15 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2024-12-26 21:35:06 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2024-12-26 21:35:06 -0800"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/activate_zombie_horse_trap": {
+    "criteria": {
+      "friendsandfoes:activate_zombie_horse_trap": "2024-12-26 21:23:23 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2024-12-26 21:36:50 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-26 21:35:06 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-26 21:35:06 -0800"
     },
     "done": true
   },
