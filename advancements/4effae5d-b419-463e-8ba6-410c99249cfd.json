@@ -2475,6 +2475,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-17 21:55:44 -0800",
+      "cooked_mutton": "2024-12-28 22:24:57 -0800",
       "cooked_beef": "2024-12-18 16:17:52 -0800",
       "baked_potato": "2024-12-20 20:26:27 -0800",
       "bread": "2024-12-20 21:13:11 -0800",
@@ -12800,33 +12801,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_table": {
     "criteria": {
       "has_dark_oak_table": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_medium_pot": {
-    "criteria": {
-      "has_terracotta_medium_pot": "2024-12-28 21:02:21 -0800"
     },
     "done": true
   },
@@ -12836,57 +12813,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_shutter": {
-    "criteria": {
-      "has_slab": "2024-12-28 20:35:20 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_gray_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_wide_pot": {
-    "criteria": {
-      "has_terracotta_wide_pot": "2024-12-28 21:02:21 -0800"
     },
     "done": true
   },
@@ -12920,48 +12849,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-28 21:07:44 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-28 21:07:44 -0800"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/tiles": {
-    "criteria": {
-      "has_item": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_thin_pot": {
-    "criteria": {
-      "has_terracotta_thin_pot": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2024-12-28 20:35:06 -0800"
@@ -12971,12 +12858,6 @@
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
     },
     "done": true
   },
@@ -12998,27 +12879,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_lime_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
     },
     "done": true
   },
@@ -13028,21 +12891,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2024-12-28 21:07:43 -0800"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
     },
     "done": true
   },
@@ -13052,21 +12903,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_fancy_bed": {
     "criteria": {
       "has_dark_oak_fancy_bed": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/spruce_palisade": {
-    "criteria": {
-      "has_log": "2024-12-28 21:21:16 -0800"
     },
     "done": true
   },
@@ -13076,63 +12915,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2024-12-28 21:42:49 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/dark_oak_support": {
     "criteria": {
       "has_plank": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_plate": {
-    "criteria": {
-      "has_terracotta_plate": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/building_blocks/cod_barrel": {
-    "criteria": {
-      "has_cod": "2024-12-28 21:07:44 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2024-12-28 20:50:36 -0800"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2024-12-28 20:35:20 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
     },
     "done": true
   },
@@ -13142,27 +12927,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-28 21:21:16 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_green_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-12-28 21:15:06 -0800"
     },
     "done": true
   },
@@ -13172,105 +12939,15 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_bench": {
-    "criteria": {
-      "has_slab": "2024-12-28 20:35:20 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/terracotta_bricks": {
-    "criteria": {
-      "has_item": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2024-12-28 20:35:06 -0800"
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/shingles": {
-    "criteria": {
-      "has_item": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-28 21:07:44 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
-    "criteria": {
-      "has_item": "2024-12-28 21:15:06 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2024-12-28 21:07:44 -0800"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/building_blocks/pufferfish_barrel": {
-    "criteria": {
-      "has_pufferfish": "2024-12-28 21:07:59 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/terracotta_cup": {
-    "criteria": {
-      "has_terracotta_cup": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
-    "criteria": {
-      "has_candle_holder": "2024-12-28 20:45:29 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2024-12-28 21:02:21 -0800"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/dark_oak_flower_box": {
-    "criteria": {
-      "has_slab": "2024-12-28 20:35:20 -0800"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2024-12-28 20:35:06 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/dark_oak_table_slab": {
-    "criteria": {
-      "has_bamboo": "2024-12-28 20:35:20 -0800"
     },
     "done": true
   },
@@ -13310,9 +12987,123 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/terracotta_bowl": {
+  "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
-      "has_terracotta_bowl": "2024-12-28 21:02:21 -0800"
+      "has_planks": "2024-12-28 20:35:06 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2024-12-28 20:35:06 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2024-12-28 20:35:20 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-28 20:35:20 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2024-12-28 20:35:20 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2024-12-28 20:35:20 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 20:35:20 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "has_candle_holder": "2024-12-28 20:45:29 -0800"
     },
     "done": true
   },
@@ -13322,15 +13113,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-12-28 20:50:36 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-28 21:02:21 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
+  "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
-      "has_planks": "2024-12-28 20:35:06 -0800"
+      "has_terracotta_medium_pot": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_wide_pot": {
+    "criteria": {
+      "has_terracotta_wide_pot": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/tiles": {
+    "criteria": {
+      "has_item": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thin_pot": {
+    "criteria": {
+      "has_terracotta_thin_pot": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_plate": {
+    "criteria": {
+      "has_terracotta_plate": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/terracotta_bricks": {
+    "criteria": {
+      "has_item": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/shingles": {
+    "criteria": {
+      "has_item": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_cup": {
+    "criteria": {
+      "has_terracotta_cup": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_bowl": {
+    "criteria": {
+      "has_terracotta_bowl": "2024-12-28 21:02:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-28 21:02:21 -0800"
     },
     "done": true
   },
@@ -13340,9 +13275,466 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_plank": "2024-12-28 20:35:06 -0800"
+      "cod": "2024-12-28 21:07:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-28 21:07:44 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-28 21:07:44 -0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/cod_barrel": {
+    "criteria": {
+      "has_cod": "2024-12-28 21:07:44 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-28 21:07:44 -0800"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2024-12-28 21:07:44 -0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/pufferfish_barrel": {
+    "criteria": {
+      "has_pufferfish": "2024-12-28 21:07:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-28 21:15:06 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-28 21:15:06 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_palisade": {
+    "criteria": {
+      "has_log": "2024-12-28 21:21:16 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 21:21:16 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-28 21:42:49 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2024-12-28 23:06:02 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-28 23:17:08 -0800",
+      "carrot": "2024-12-28 22:42:44 -0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-28 23:20:41 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2024-12-28 23:06:05 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2024-12-28 22:41:54 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "aether_protect_your_moa:recipes/combat/iron_moa_armor": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 23:14:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-12-28 22:32:14 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-12-28 23:06:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 22:42:11 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2024-12-28 22:32:14 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2024-12-28 23:08:38 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-28 22:32:14 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2024-12-28 22:45:40 -0800"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-12-28 22:32:14 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-12-28 22:32:14 -0800"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2024-12-28 23:21:22 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2024-12-28 23:06:02 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clam_chum": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:42:11 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/doormat_2": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-28 22:42:33 -0800"
+    },
+    "done": true
+  },
+  "aether:incubate_moa": {
+    "criteria": {
+      "incubate_moa": "2024-12-28 23:08:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2024-12-28 23:06:02 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2024-12-28 22:42:33 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-28 23:20:41 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 22:42:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2024-12-28 22:42:33 -0800"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 22:42:11 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-28 22:42:33 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 22:42:11 -0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:42:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-28 22:34:48 -0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_clawster_chum": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:42:11 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2024-12-28 23:08:38 -0800"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/tools/bucket_of_crab_chum": {
+    "criteria": {
+      "has_bonemeal": "2024-12-28 22:42:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2024-12-28 22:42:43 -0800"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2024-12-28 22:57:14 -0800"
     },
     "done": true
   },
