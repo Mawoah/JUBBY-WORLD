@@ -2478,6 +2478,7 @@
       "cooked_mutton": "2024-12-28 22:24:57 -0800",
       "cooked_beef": "2024-12-18 16:17:52 -0800",
       "baked_potato": "2024-12-20 20:26:27 -0800",
+      "apple": "2025-01-02 23:34:39 -0800",
       "cooked_cod": "2024-12-29 17:54:03 -0800",
       "bread": "2024-12-20 21:13:11 -0800",
       "melon_slice": "2024-12-20 20:27:02 -0800",
@@ -14221,6 +14222,12 @@
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2024-12-30 23:44:58 -0800"
+    },
+    "done": true
+  },
+  "lost_aether_content:recipes/incubation/orange_moa_incubation": {
+    "criteria": {
+      "has_orange_moa_egg": "2025-01-02 23:40:21 -0800"
     },
     "done": true
   },

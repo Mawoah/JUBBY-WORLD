@@ -17535,19 +17535,61 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-30 22:57:38 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-30 22:57:51 -0800"
+    },
+    "done": true
+  },
+  "yungscavebiomes:sandstorm_end": {
+    "criteria": {
+      "sandstorm_end": "2024-12-30 23:35:54 -0800"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-12-30 23:45:49 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-30 23:50:36 -0800"
     },
     "done": true
   },
-  "netherexp:nether/gravedigger": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_item": "2024-12-31 00:26:49 -0800"
+      "has_blaze_powder": "2024-12-30 23:50:36 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 23:50:36 -0800"
     },
     "done": true
   },
   "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-30 23:50:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-30 23:50:40 -0800"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
     "criteria": {
       "has_ender_eye": "2024-12-30 23:50:40 -0800"
     },
@@ -17559,9 +17601,27 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_helmet_repairing": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_diamond_helmet": "2024-12-30 22:57:51 -0800"
+      "has_pointed_dripstone": "2024-12-30 23:59:13 -0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2024-12-30 23:59:13 -0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-30 23:59:13 -0800"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2024-12-30 23:59:35 -0800"
     },
     "done": true
   },
@@ -17583,18 +17643,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-12-30 23:59:13 -0800"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
-    "criteria": {
-      "ferrous_wroughtnaut": "2024-12-30 23:45:49 -0800"
-    },
-    "done": true
-  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2024-12-31 00:04:07 -0800"
@@ -17604,48 +17652,6 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-31 00:04:07 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2024-12-30 22:57:38 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-30 23:50:36 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2024-12-30 23:50:40 -0800"
-    },
-    "done": true
-  },
-  "netherexp:nether/non_renewable_yeah_right": {
-    "criteria": {
-      "killed_entity": "2024-12-31 00:26:33 -0800"
-    },
-    "done": true
-  },
-  "yungscavebiomes:sandstorm_end": {
-    "criteria": {
-      "sandstorm_end": "2024-12-30 23:35:54 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/honeycomb_block": {
-    "criteria": {
-      "has_honeycomb": "2024-12-31 00:04:19 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_hoe_repairing": {
-    "criteria": {
-      "has_diamond_hoe": "2024-12-31 00:27:34 -0800"
     },
     "done": true
   },
@@ -17673,18 +17679,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-31 00:24:26 -0800"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dripstone_corner_trim": {
-    "criteria": {
-      "has_dripstone_corner_trim": "2024-12-30 23:59:13 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-31 00:04:07 -0800"
@@ -17697,27 +17691,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-30 23:50:36 -0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/compacted_dripstone": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-12-30 23:59:13 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-31 00:04:07 -0800"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_beehive": {
-    "criteria": {
-      "has_honeycomb": "2024-12-31 00:04:19 -0800"
     },
     "done": true
   },
@@ -17727,9 +17703,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rocky_roller": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "killed_by": "2024-12-30 23:59:35 -0800"
+      "has_honeycomb": "2024-12-31 00:04:19 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-31 00:04:19 -0800"
     },
     "done": true
   },
@@ -17739,9 +17721,27 @@
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/ender_nectar": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_ender_eye": "2024-12-30 23:50:40 -0800"
+      "has_wither_rose": "2024-12-31 00:24:26 -0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2024-12-31 00:26:33 -0800"
+    },
+    "done": true
+  },
+  "netherexp:nether/gravedigger": {
+    "criteria": {
+      "has_item": "2024-12-31 00:26:49 -0800"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2024-12-31 00:27:34 -0800"
     },
     "done": true
   },
